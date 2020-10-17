@@ -5,8 +5,8 @@
 iOS 14 버전의 계산기를 구현했습니다. 
 
 <div>
-<img width="300" height="500" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png">
-<img width="300" height="500" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-2.png">
-<img width="300" height="500" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-3.png">
+<img width="250" height="550" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png">
+<img width="250" height="550" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-2.png">
+<img width="250" height="550" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-3.png">
 </div>
 
