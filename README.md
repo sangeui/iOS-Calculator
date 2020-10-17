@@ -4,6 +4,6 @@
 ---
 iOS 14 버전의 계산기를 구현했습니다. 
 
-<img width="300" height="300" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png">
+<img width="300" height="400" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png">
 
 
