@@ -1,12 +1,13 @@
-### iOS 계산기 클론 코딩
-[![Swift Version](https://img.shields.io/badge/Swift-5.0-F16D39.svg?style=flat)](https://developer.apple.com/swift)
+### Clone Coding of iOS Calculator App
 
----
-iOS 14 버전의 계산기를 구현했습니다. 
+* 100% Implemented except for scientific (landscape) mode. 
+	* There are so many sub-features in addition to standard ones for calculator. Input order, for example, determines the way of calculating.  
+	* Awesome button effect, Fluid Interface, has been implemented. 
+* Tried to make it with clean structure (at least).
+* Tried to separate business logic from UI codes. 
+* Cared about reusability and readability.
 
 <div>
 <img width="250" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png">
-<img width="250" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-2.png">
-<img width="250" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-3.png">
 </div>
 
