@@ -25,9 +25,3 @@
 * 결과
 	* 디자인 패턴의 오용
 	* 설계의 중요성과 동시에 어려움 경험
-
-<divps://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-.png">
-< src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-2.png">
-<img width="250" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-13.png">
-</div>/i>
-
