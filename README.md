@@ -1,4 +1,3 @@
-### Clone Coding of iOS Calculator App
 
 * 배경
 	* 앱 구조의 부재와 수차례 스파게티 코드 작성
@@ -31,3 +30,4 @@
 < src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-2.png">
 <img width="250" src="https://github.com/sangeui/iOS-Clone-Calculator/blob/main/Resources/iOS-Clone-Calculator-13.png">
 </div>/i>
+
