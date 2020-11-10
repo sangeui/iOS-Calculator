@@ -1,3 +1,4 @@
+### Clone Coding of iOS Calculator App
 
 * 배경
 	* 앱 구조의 부재와 수차례 스파게티 코드 작성
@@ -25,3 +26,6 @@
 * 결과
 	* 디자인 패턴의 오용
 	* 설계의 중요성과 동시에 어려움 경험
+
+![](https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif)
+
