@@ -29,13 +29,12 @@
 	* 설계의 중요성과 동시에 어려움 경험
 
 ---
-**Fluid Effect**
 
 <table>
   <tr>
-    <td>First Screen Page</td>
+    <td>Fluid Effect</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="150"></td>
+    <td><img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200"></td>
   </tr>
  </table>
