@@ -32,5 +32,5 @@
 **데모 이미지**
 
 |FLUID EFFECT |
-|-|
+|--|
 |<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">|
