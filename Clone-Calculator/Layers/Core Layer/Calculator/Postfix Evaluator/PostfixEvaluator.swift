@@ -7,11 +7,7 @@
 
 import Foundation
 
-protocol Evaluator {
-    func evaluate(_ expression: Expression) -> Double
-}
-
-class Evaluator: Evaluator {
+class PostfixEvaluator: Evaluator {
     var stack: [Double] = []
     func evaluate(_ expression: Expression) -> Double {
         defer { stack.removeAll() }

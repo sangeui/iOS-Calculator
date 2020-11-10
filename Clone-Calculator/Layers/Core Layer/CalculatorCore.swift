@@ -15,7 +15,7 @@ class CalculatorCore {
     private let factory = TokenFactory()
     private let checker = ExpressionBreaker()
     private let converter: Converter = PostfixConverter()
-    private let evaluator = Evaluator()
+    private let evaluator = PostfixEvaluator()
     private var history = History()
     
     private let buildingExpression = Builder<Token>()
