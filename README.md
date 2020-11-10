@@ -31,7 +31,6 @@
 ---
 **Fluid Effect**
 
-```
 <table>
   <tr>
     <td>First Screen Page</td>
@@ -40,4 +39,3 @@
     <td><img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="150"></td>
   </tr>
  </table>
-```
