@@ -31,15 +31,6 @@
 ---
 **데모 이미지**
 
-|FLUID EFFECT | | |
-|-|-|-|
-|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">| Value1 |
-
-<table>
-  <tr>
-    <td>Fluid Effect</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200"></td>
-  </tr>
- </table>
+|FLUID EFFECT |
+|-|
+|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">|
