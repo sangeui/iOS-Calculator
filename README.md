@@ -27,6 +27,4 @@
 	* 디자인 패턴의 오용
 	* 설계의 중요성과 동시에 어려움 경험
 
-```
-<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="250"/>
-```
+![](https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif | width=100)
