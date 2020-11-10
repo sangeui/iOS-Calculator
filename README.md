@@ -25,6 +25,9 @@
 	* 버튼 효과
 		* iOS 계산기 앱에서 사용되는 버튼의 Fluid 인터페이스 구현
 * 구조
+	* 최상위 레벨: 유저 인터페이스 레이어 - 코어 레이어
+	* 유저 인터페이스 레이어: Controller - View
+	* 코어 레이어: Converter - Core - Calculator
 	* <img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Calculator.png">
 * 결과
 	* 플러스
