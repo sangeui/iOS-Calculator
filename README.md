@@ -29,6 +29,11 @@
 	* 설계의 중요성과 동시에 어려움 경험
 
 ---
+**데모 이미지**
+
+|FLUID EFFECT | | |
+|-|-|-|
+|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">| Value1 |
 
 <table>
   <tr>
