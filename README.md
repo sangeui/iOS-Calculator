@@ -31,6 +31,6 @@
 ---
 **데모 이미지**
 
-|FLUID EFFECT |
-|--|
-|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">|
+|FLUID EFFECT| 스크린샷1 | 스크린샷2 | 스크린샷3
+|--|--|--|--|
+|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png" width="200">|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/iOS-Clone-Calculator-2.png" width="200">|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/iOS-Clone-Calculator-3.png" width="200">|
