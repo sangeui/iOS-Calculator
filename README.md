@@ -30,5 +30,7 @@
 
 ---
 **Fluid Effect**
-
-<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="150">
+<p float="left">
+	<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="150">
+	<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="150">
+</p>
