@@ -16,9 +16,9 @@ class BaseController: UIViewController {
     @IBOutlet weak var clearButton: CalculatorButton!
 
     private let core = CalculatorCore()
-    private var director = OperandDirector(builder: Builder<String>())
-    private var refinery = Refinery(9)
-    private var bucket = Bucket<String>()
+    private var director = NumberDirector(builder: Builder<String>())
+    private var refinery = NumberRefinery(9)
+    private var bucket = NumberBucket<String>()
     
     override func viewDidLoad() {
         super.viewDidLoad()

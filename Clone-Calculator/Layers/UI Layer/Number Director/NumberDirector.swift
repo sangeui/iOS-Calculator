@@ -7,7 +7,9 @@
 
 import Foundation
 
-class OperandDirector {
+// 연속된 숫자의 입력을 처리하는 책임을 가짐.
+
+class NumberDirector {
     var builder: Builder<String>
     
     private var isNegativeFormat: Bool = false
@@ -55,7 +57,7 @@ class OperandDirector {
         return operand
     }
 }
-private extension OperandDirector {
+private extension NumberDirector {
     var isStartingState: Bool {
         return builder.count == 1 && builder.peak()! == "0"
     }

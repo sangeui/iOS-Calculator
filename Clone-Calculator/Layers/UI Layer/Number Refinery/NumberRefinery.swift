@@ -7,7 +7,9 @@
 
 import Foundation
 
-class Refinery {
+// 계산된 Double 타입의 결과를 적절한 형태로 정제하는 책임을 가짐.
+
+class NumberRefinery {
     typealias Lengths = (integer: Int, fraction: Int)
     private let MaxLength: Int
     private let decimalFormatter: (Int?) -> NumberFormatter = { limit in
@@ -45,7 +47,7 @@ class Refinery {
         return isPossibleMakingDecimalFormat(evaluated) ? makeDecimalFormattedString(evaluated) : makeScientificFormattedString(evaluated)
     }
 }
-private extension Refinery {
+private extension NumberRefinery {
     func getEachLengthOfNumber(_ number: String) -> Lengths {
         let numberinDouble = Double(number)!
         let integerPart = numberinDouble.getLengthofIntegerPart
