@@ -64,14 +64,14 @@
 		* 일종의 이벤트 역전
 		* iOS 계산기와 동일한 Fluid Interface 구현
 		* 이것이 유일하고 옳은 방법이라고는 생각되지 않음
-		* <img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="400">
+		* <img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/InversionOfEvent.jpeg" width="400">
 
 ---
 **데모 이미지**
 
 |FLUID EFFECT| 스크린샷1 |
 |--|--|
-|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/InversionOfEvent" width="200">|
+|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/Fluid-Calculator.gif" width="200">|<img src="https://github.com/sangeui/iOS-Calculator/blob/main/Resources/iOS-Clone-Calculator-1.png" width="200">|
 
 |스크린샷2|스크린샷3|
 |--|--|
