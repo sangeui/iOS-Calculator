@@ -1,0 +1,25 @@
+jobs:
+  build:
+    macos:
+      xcode: "14.2.0"
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          # Install Cocoapods
+          gem install cocoapods
+
+          # Install project dependencies
+          #pod install
+
+      - name: Build project
+        run: xcodebuild -workspace Clone-Calculator.xcworkspace -scheme Clone-Calculator -sdk iphonesimulator -destination "platform=iOS Simulator,name=iPhone 12" build
+
+      # Additional steps for code signing, test execution, etc.
+
+workflow:
+  build:
+    jobs:
+      - build
