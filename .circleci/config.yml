@@ -16,8 +16,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: xcodebuild -workspace Clone-Calculator.xcworkspace -scheme Clone-Calculator -sdk iphonesimulator -destination "platform=iOS Simulator,name=iPhone 12" build
-
+          command: "echo Hello, World!"
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
